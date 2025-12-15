@@ -66,7 +66,7 @@ Repositori ini fokus pada *deployment* model yang sudah terlatih sebagai layanan
 | 📖 **Notebook Pengembangan ML** | [Buka Notebook Google Colab](https://colab.research.google.com/drive/1r5zFDuOx5J5awtuLxa4hjYeGk3Hgi347?usp=sharing) |
 | 📁 **Download File Model Terlatih** | [Google Drive](https://drive.google.com/drive/folders/1DT857d-xcnRz_UuIdplyAPIPrYMk97sf?usp=sharing) |
 | 📊 **Sumber Dataset (Bank Marketing)** | [UCI Archive](https://archive.ics.uci.edu/dataset/222/bank+marketing) |
-| 🎥 **Video Demo** | *(Akan diisi nanti)* |
+| 🎥 **Video Demo** | [Click Here](https://youtu.be/fUs_xiS34k4?si=jVFrNzo5oN0RsAKF) |
 
 ---
 
